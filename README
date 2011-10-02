@@ -1,0 +1,5 @@
+GSubscribe - A simple script to automatize subscriptions using Google tools
+
+The ideal problem solved by the script: how to manage subscriptions to an event? The script, once run, checks a gmail inbox for emails with a specific subject, then gathers some data (sender, first two lines) and it automatically append a new line representing a new subscription to a GDocs spreadsheet (that has to be created in advance). Simple, but useful, python. Use it in combination with cron to save a lot you would have spent checking your inbox!
+
+Rudi
